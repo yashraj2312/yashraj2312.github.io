@@ -1,0 +1,104 @@
+ 
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #6db9df;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 45px;
+    color: #252627;
+  }
+  
+  canvas {
+    background: #252627;
+    display: block;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    cursor: pointer;
+    border: 0;
+    padding: 10px 20px;
+    background: #000;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  .btn:focus {
+    outline: 0;
+  }
+  
+  .btn:hover {
+    background: #222;
+  }
+  
+  .btn:active {
+    transform: scale(0.98);
+  }
+  
+  .rules-btn {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+  }
+  
+  .rules {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #333;
+    color: #fff;
+    min-height: 100vh;
+    width: 400px;
+    padding: 20px;
+    line-height: 1.5;
+    transform: translateX(-400px);
+    transition: transform 1s ease-in-out;
+  }
+  
+  .rules.show {
+    transform: translateX(0);
+  }
+
+
+
+  footer hr {
+    border: 2px solid #707070;
+    margin-top: 80px;
+  }
+  
+  footer p{
+    text-align: center;
+    color: #707070;
+    font-size: 1.2rem;
+    padding: 30px;
+  }
+  
+  
+  
+  
+  .footer-heart{text-align:center;font-family: open sans, sans-serif;}
+  
+  .footer-heart a{border-bottom: 1px solid #453886;color: #453886;padding-bottom: .25em; text-decoration: none;}
+  
+  .footer-heart a:hover{color:#2196f3; background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23453886' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background-size: 20%;
+    border-bottom: 0;
+    padding-bottom: .3em;
+    text-decoration: none;}
+  
+  .emoji{vertical-align: middle;}
+  
+  
