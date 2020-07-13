@@ -19,3 +19,9 @@ correct posture while working for long hours.
 
 ## 2- Game Spot
 
+Gamespot is a Game zone which hosts games
+like Flash fingers, Super breakout and Hangman
+built for techies where they can indulge
+themselves in brain storming activities.
+
+
