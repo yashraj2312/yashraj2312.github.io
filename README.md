@@ -17,3 +17,5 @@ correct posture while working for long hours.
 (https://yashraj2312.github.io/broeye/index.html)
 
 
+## 2- Game Spot
+
