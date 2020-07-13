@@ -29,6 +29,8 @@ themselves in brain storming activities.
 
 ![sample_gif](https://raw.githubusercontent.com/yashraj2312/lwr/master/gamespot.gif)
 
+### Hosted Link
 
+(https://bit.ly/gamespotio)
 
 
