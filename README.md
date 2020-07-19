@@ -33,5 +33,5 @@ themselves in brain storming activities.
 
 (https://bit.ly/gamespotio)
 
-## 3- Personal
+## 3- Personal Portfolio
 
