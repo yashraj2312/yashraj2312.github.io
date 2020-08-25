@@ -37,4 +37,4 @@ themselves in brain storming activities.
 
 Personal portfolio website built using GatsbyJS and GraphQL
 
-(https://bit.ly/yashrajweb)
+(https://yashraj.netlify.app)
