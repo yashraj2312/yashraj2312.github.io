@@ -15,7 +15,7 @@ Click==7.0
 cycler==0.10.0
 Cython==0.29.15
 distlib==0.3.0
-Django==3.0.3
+Django==3.0.14
 dlib==19.17.0
 Eel==0.11.0
 face-recognition==1.2.3
