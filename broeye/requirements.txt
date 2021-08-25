@@ -162,7 +162,7 @@ soupsieve==1.9.5
 SpeechRecognition==3.8.1
 sqlparse==0.3.0
 tensorboard==2.0.1
-tensorflow==2.0.0
+tensorflow==2.5.1
 tensorflow-estimator==2.0.1
 termcolor==1.1.0
 tesseract==0.1.3
